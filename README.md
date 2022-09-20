@@ -1,3 +1,3 @@
 # Short-Project-02
 Analog Clock
- https://kaziomar144.github.io/Short-Project-02/
+ https://kaziomarSH24.github.io/Short-Project-02/
